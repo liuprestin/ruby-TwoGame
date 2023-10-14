@@ -1,0 +1,5 @@
+- Error checking - eg. divide by zero
+- comments if needed
+- how to run the game
+
+(ruby main.rb)
